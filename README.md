@@ -28,7 +28,7 @@
 ### 1. 클론
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-starter-kit.git
+git clone https://github.com/LucyGwon/ai-starter-kit.git
 cd ai-starter-kit
 ```
 
